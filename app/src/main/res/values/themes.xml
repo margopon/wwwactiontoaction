@@ -22,11 +22,14 @@
         <item name="android:layout_margin">5dp</item>
         <item name="android:fontFamily">@font/architects_daughter</item>
         <item name="android:layout_gravity">center</item>
+    </style>
+
+
 
     <style name="text">
         <item name="android:layout_height">20dp</item>
         <item name="android:layout_width">240dp</item>
-        <item name="android:background">@color/green</item>
+        <item name="android:background">@color/purple_500</item>
         <item name="android:textSize">28sp</item>
         <item name="android:layout_margin">5dp</item>
         <item name="android:fontFamily">@font/architects_daughter</item>

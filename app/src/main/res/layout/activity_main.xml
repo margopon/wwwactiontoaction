@@ -34,8 +34,8 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/architects_daughter"
             android:text="Buttons"
-            android:style
-            tools:text="continue" />
+            tools:text="continue"
+            style="@style/buttons"/>
 
         <Button
             android:id="@+id/btn_newgame"
@@ -43,7 +43,8 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/architects_daughter"
             android:text="Button"
-            tools:text="new game" />
+            tools:text="new game"
+            style="@style/buttons"/>
 
         <Button
             android:id="@+id/btn_loadgame"
@@ -51,7 +52,8 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/architects_daughter"
             android:text="Button"
-            tools:text="load game" />
+            tools:text="load game"
+            style="@style/buttons"/>
 
         <Button
             android:id="@+id/btn_options"
@@ -59,7 +61,8 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/architects_daughter"
             android:text="Button"
-            tools:text="options" />
+            tools:text="options"
+            style="@style/buttons"/>
 
         <Button
             android:id="@+id/btn_exit"
@@ -67,7 +70,8 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/architects_daughter"
             android:text="Button"
-            tools:text="exit" />
+            tools:text="exit"
+            style="@style/buttons"/>
 
     </LinearLayout>
 
